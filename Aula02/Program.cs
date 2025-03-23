@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main()
     {
+        string separator = "--------------";
         //Comentário linha
         
         /*
@@ -18,6 +19,8 @@ public class Program
         double numberDouble = 10.50;
         char character = 'A';
         bool boolean = true;
+
+    
         
     }
 
