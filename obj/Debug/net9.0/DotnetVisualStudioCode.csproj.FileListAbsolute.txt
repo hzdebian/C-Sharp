@@ -1,0 +1,14 @@
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\bin\Debug\net9.0\DotnetVisualStudioCode.exe
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\bin\Debug\net9.0\DotnetVisualStudioCode.deps.json
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\bin\Debug\net9.0\DotnetVisualStudioCode.runtimeconfig.json
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\bin\Debug\net9.0\DotnetVisualStudioCode.dll
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\bin\Debug\net9.0\DotnetVisualStudioCode.pdb
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.AssemblyInfoInputs.cache
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.AssemblyInfo.cs
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.csproj.CoreCompileInputs.cache
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.dll
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\refint\DotnetVisualStudioCode.dll
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.pdb
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\DotnetVisualStudioCode.genruntimeconfig.cache
+C:\Users\robos\DotSharp\DotnetVisualStudioCode\obj\Debug\net9.0\ref\DotnetVisualStudioCode.dll
